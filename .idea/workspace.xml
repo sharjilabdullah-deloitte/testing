@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e28d423-374a-4d58-b0f7-12c0eac0ba8c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Log4j/applog.log" beforeDir="false" afterPath="$PROJECT_DIR$/Log4j/applog.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reports/Extent_Report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Reports/Extent_Report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/ProjectsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/ProjectsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/ViewAppliedPositionPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/ViewAppliedPositionPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/UserLoginTest/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UserLoginTest/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/ProjectsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObjects/ProjectsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/ViewProfile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/UserLoginTest/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/UserLoginTest/TestRunner.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="27haK6JETFGbtqNZOL04w0Ualyb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\asharjil\IdeaProjects\Selenium_Assignment\src\main\java\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\asharjil\IdeaProjects\Selenium_Assignment\src\main\java\testAutomation" />
+      <recent name="C:\Users\asharjil\IdeaProjects\Selenium_Assignment\src\main\java\resources" />
+      <recent name="C:\Users\asharjil\IdeaProjects\Selenium_Assignment\src\main\java" />
+      <recent name="C:\Users\asharjil\IdeaProjects\Selenium_Assignment\src\main\resource" />
+      <recent name="C:\Users\asharjil\IdeaProjects\Selenium_Assignment\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestRunner (2)">
+    <configuration name="C:/Users/asharjil/IdeaProjects/Selenium_Assignment/testngParallel.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Assignment" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testngParallel.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/asharjil/IdeaProjects/Selenium_Assignment/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Assignment" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="User" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UserLoginTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UserLoginTest" />
+      <option name="MAIN_CLASS_NAME" value="UserLoginTest.TestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HashedinProject_Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UserLoginTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UserLoginTest" />
+      <option name="MAIN_CLASS_NAME" value="UserLoginTest.TestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UserLoginTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="WeatherShopperTest.TestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestRunner (2)" />
+        <item itemvalue="TestNG.TestRunner (1)" />
+        <item itemvalue="TestNG.C:/Users/asharjil/IdeaProjects/Selenium_Assignment/testng.xml" />
+        <item itemvalue="TestNG.TestRunner" />
+        <item itemvalue="TestNG.C:/Users/asharjil/IdeaProjects/Selenium_Assignment/testngParallel.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e28d423-374a-4d58-b0f7-12c0eac0ba8c" name="Changes" comment="" />
+      <created>1649774707715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649774707715</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Selenium_Assignment$HomePageTest.ic" NAME="HomePageTest Coverage Results" MODIFIED="1649908589960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>testcases.*</FILTER>
+    </SUITE>
+  </component>
+</project>
